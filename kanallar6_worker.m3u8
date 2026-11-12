@@ -96,8 +96,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2794224703b2cc3f4b330e
 #EXTINF:-1 tvg-name="EURO STAR" tvg-logo="https://logo.huhu.to/logo?c=1827094680.png" group-title="TR | Ulusal / Genel",EURO STAR
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1827094680ef16ad2f8b38
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rm6Dmjmc/images-removebg-preview-(5).png" tvg-name="EURO STAR" group-title="TR | Ulusal / Genel",EURO STAR
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/38145219358d998f180862
 #EXTINF:-1 tvg-name="KANAL 3" tvg-logo="https://logo.huhu.to/logo?c=1558612099.png" group-title="TR | Ulusal / Genel",KANAL 3
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1558612099f5cdf062ccd3
 #EXTINF:-1 tvg-logo="https://www.kanal3.com.tr/wp-content/uploads/2024/11/logo-12-2-1.png" tvg-name="KANAL 3" group-title="TR | Ulusal / Genel",KANAL 3
@@ -122,6 +120,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4986459771133ab4a2f33
 #EXTINF:-1 tvg-name="KANAL 7 EUROPA" tvg-logo="https://logo.huhu.to/logo?c=3264983364.png" group-title="TR | Ulusal / Genel",KANAL 7 EUROPA
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/326498336471980dd56f67
+#EXTINF:-1 tvg-name="MAX STAR WARS" group-title="TR | Ulusal / Genel",MAX STAR WARS
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/19211708241b5fda0abe88
 #EXTINF:-1 tvg-name="SHOW HD (H265)" tvg-logo="https://logo.huhu.to/logo?c=3537232978.png" group-title="TR | Ulusal / Genel",SHOW HD (H265)
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3537232978db7b25368a4b
 #EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://logo.huhu.to/logo?c=1495761327.png" group-title="TR | Ulusal / Genel",SHOW MAX
@@ -146,8 +146,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1822864752924d1506f08
 #EXTINF:-1 tvg-name="TRT 4K" tvg-logo="https://logo.huhu.to/logo?c=3317656516.png" group-title="TR | Ulusal / Genel",TRT 4K
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3317656516b0224418b6a8
-#EXTINF:-1 tvg-name="4K TR: TRT 3" group-title="TR | Ulusal / Genel",4K TR: TRT 3
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/418740351278f04c94b243
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcfYSxnm/TRT-Avaz-logo-(2009-2020).png" tvg-name="TRT AVAZ" group-title="TR | Ulusal / Genel",TRT AVAZ
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/248133980972fe7049de85
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-logo="https://logo.huhu.to/logo?c=691149597.png" group-title="TR | Ulusal / Genel",TRT AVAZ
@@ -242,20 +240,18 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4202445834678957f05238
 #EXTINF:-1 tvg-name="AKIT TV" tvg-logo="https://logo.huhu.to/logo?c=1948681011.png" group-title="TR | Haber",AKIT TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/194868101172e4362de24e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGm119qS/20161004193153-Akit-TV.png" tvg-name="AKIT TV" group-title="TR | Haber",AKIT TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1862240206bdae999f9066
 #EXTINF:-1 tvg-name="APARA HD" tvg-logo="https://logo.huhu.to/logo?c=931406409.png" group-title="TR | Haber",APARA HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9314064096e814315889b
 #EXTINF:-1 tvg-name="BILGILENDIRME" tvg-logo="https://logo.huhu.to/logo?c=2224047651.png" group-title="TR | Haber",BILGILENDIRME
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2224047651b7df1fd1adc5
-#EXTINF:-1 tvg-name="BLOOMBERG" group-title="TR | Haber",BLOOMBERG
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/260322414100d6583c3f2b
 #EXTINF:-1 tvg-name="BLOOMBERG HT HD" tvg-logo="https://logo.huhu.to/logo?c=236989031.png" group-title="TR | Haber",BLOOMBERG HT HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9
 #EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-name="4K TR: BLOOMBERG HT HD" group-title="TR | Haber",4K TR: BLOOMBERG HT HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/315207916849418564f7e9
-#EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-name="BLOOMBERGHT RAW" group-title="TR | Haber",BLOOMBERGHT RAW
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/35781502601487862e9ea4
+#EXTINF:-1 tvg-logo="https://www.bloomberght.com/images/common/logo/bht-logo-white.svg" tvg-name="BLOOMBERG HT HD+ SD" group-title="TR | Haber",BLOOMBERG HT HD+ SD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2563486225460803675883
+#EXTINF:-1 tvg-name="BLOOMBERGHT HD" tvg-logo="https://logo.huhu.to/logo?c=858568307.png" group-title="TR | Haber",BLOOMBERGHT HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/8585683074b88a84fea71
 #EXTINF:-1 tvg-name="DHA" group-title="TR | Haber",DHA
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/40223592760f0af9f37d41
 #EXTINF:-1 tvg-name="EKO TURK" tvg-logo="https://logo.huhu.to/logo?c=2999246297.png" group-title="TR | Haber",EKO TURK
@@ -286,6 +282,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4144668031412a19aa2d0e
 #EXTINF:-1 tvg-name="HABER TURK HD" tvg-logo="https://logo.huhu.to/logo?c=2360854158.png" group-title="TR | Haber",HABER TURK HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2360854158813051c3c887
+#EXTINF:-1 tvg-logo="https://www.haberturk.com/images/common/logo/svg/haberturk-logo.svg" tvg-name="HABER TÜRK HD+ SD" group-title="TR | Haber",HABER TÜRK HD+ SD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/32253354543986c7294970
 #EXTINF:-1 tvg-name="4K TR: HABERT RK HD" group-title="TR | Haber",4K TR: HABERT RK HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4253369376912583d237b6
 #EXTINF:-1 tvg-name="KRT" tvg-logo="https://logo.huhu.to/logo?c=331685130.png" group-title="TR | Haber",KRT
@@ -300,8 +298,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/22309682628a9ba731b044
 #EXTINF:-1 tvg-name="SZC" tvg-logo="https://logo.huhu.to/logo?c=2036794972.png" group-title="TR | Haber",SZC
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2036794972b992547192b9
-#EXTINF:-1 tvg-logo="https://tele1comtr.teimg.com/tele1-com-tr/uploads/2024/12/tele1-logo-1.svg" tvg-name="TELE 1" group-title="TR | Haber",TELE 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1025979520ee1c8a3dc728
 #EXTINF:-1 tvg-logo="https://tele1comtr.teimg.com/tele1-com-tr/uploads/2024/12/tele1-logo-1.svg" tvg-name="TELE 1 SD" group-title="TR | Haber",TELE 1 SD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/33823947399faceb7a3a0a
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-logo="https://logo.huhu.to/logo?c=2814392458.png" group-title="TR | Haber",TGRT HABER HD
@@ -310,8 +306,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/356274005436ab338d23af
 #EXTINF:-1 tvg-logo="https://s.tgrthaber.com/s/i/i-logo-black.svg" tvg-name="4K TR: TGRT HABER HD" group-title="TR | Haber",4K TR: TGRT HABER HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/190715470454a282dd6577
-#EXTINF:-1 tvg-name="TRABZON HABER 61 TV HD" group-title="TR | Haber",TRABZON HABER 61 TV HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1840643644b180a4d619d6
 #EXTINF:-1 tvg-name="TÜRKHABER TV" tvg-logo="https://logo.huhu.to/logo?c=2012038243.png" group-title="TR | Haber",TÜRKHABER TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2012038243cd78e54611e8
 #EXTINF:-1 tvg-name="TV 100 HD" group-title="TR | Haber",TV 100 HD
@@ -392,12 +386,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24901653728e4a187da4c4
 #EXTINF:-1 tvg-name="TABII SPOR 2 UHD" tvg-logo="https://logo.huhu.to/logo?c=2159469231.png" group-title="TR | Spor",TABII SPOR 2 UHD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21594692318c346548c2be
-#EXTINF:-1 tvg-name="TABII SPOR 3 HD" tvg-logo="https://logo.huhu.to/logo?c=1489430754.png" group-title="TR | Spor",TABII SPOR 3 HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1489430754b4fd6e6dc327
 #EXTINF:-1 tvg-name="TABII SPOR 3 UHD" tvg-logo="https://logo.huhu.to/logo?c=2546857708.png" group-title="TR | Spor",TABII SPOR 3 UHD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2546857708611b47e42ecf
-#EXTINF:-1 tvg-name="TABII SPOR 4 HD" tvg-logo="https://logo.huhu.to/logo?c=1375986171.png" group-title="TR | Spor",TABII SPOR 4 HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/13759861713a771b4b4726
 #EXTINF:-1 tvg-name="TABII SPOR 4 UHD" tvg-logo="https://logo.huhu.to/logo?c=4088175397.png" group-title="TR | Spor",TABII SPOR 4 UHD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/408817539739fafefc9d3b
 #EXTINF:-1 tvg-name="TABII SPOR 5 HD" tvg-logo="https://logo.huhu.to/logo?c=2661933413.png" group-title="TR | Spor",TABII SPOR 5 HD
@@ -444,6 +434,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3269372326de5ff1a4d9d7
 #EXTINF:-1 tvg-name="S SPORT+4 MAC SAATI" tvg-logo="https://logo.huhu.to/logo?c=1507829436.png" group-title="TR | Mor",S SPORT+4 MAC SAATI
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1507829436cb5aa4fb5b34
+#EXTINF:-1 tvg-name="S SPORT+5 MAC SAATI" tvg-logo="https://logo.huhu.to/logo?c=3760487764.png" group-title="TR | Mor",S SPORT+5 MAC SAATI
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/376048776421ffc14b9074
 #EXTINF:-1 tvg-name="S SPORT+6 MAC SAATI" group-title="TR | Mor",S SPORT+6 MAC SAATI
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4049147693f239038935b9
 #EXTINF:-1 tvg-name="S SPORT+7 MAC SAATI" group-title="TR | Mor",S SPORT+7 MAC SAATI
@@ -460,16 +452,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1363827223a1c98515d612
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" tvg-logo="https://logo.huhu.to/logo?c=2930746102.png" group-title="TR | Mor",BEIN BOX OFFICE 1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/29307461023dd1f85985b0
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1" group-title="TR | Mor",BEIN BOX OFFICE 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1320363850bcb8f1b5542a
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 2" tvg-logo="https://logo.huhu.to/logo?c=3910129702.png" group-title="TR | Mor",BEIN BOX OFFICE 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/391012970274e1f1b46029
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 2" group-title="TR | Mor",BEIN BOX OFFICE 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/152264090d704f6769888
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 3" tvg-logo="https://logo.huhu.to/logo?c=3564106134.png" group-title="TR | Mor",BEIN BOX OFFICE 3
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/35641061340ab1a36ee3bd
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 3" group-title="TR | Mor",BEIN BOX OFFICE 3
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/8799816103c5f180837cf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTTxc9G3/Bein-gurme-removebg-preview.png" tvg-name="BEIN GURME HD" group-title="TR | Mor",BEIN GURME HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9503946561e741aaf1f5f
 #EXTINF:-1 tvg-name="BEIN IZ" tvg-logo="https://logo.huhu.to/logo?c=1691223078.png" group-title="TR | Mor",BEIN IZ
@@ -484,18 +472,24 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/26173183867663c6c36018
 #EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="TR | Mor",BEIN MOVIES ACTION 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/650851542129b8a3280b6
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" tvg-logo="https://logo.huhu.to/logo?c=2485199152.png" group-title="TR | Mor",BEIN MOVIES FAMILY
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2485199152f30b65834b87
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="TR | Mor",BEIN MOVIES FAMILY
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1322228068fac90faea203
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" tvg-logo="https://logo.huhu.to/logo?c=942987224.png" group-title="TR | Mor",BEIN MOVIES PREMIERE
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/94298722454d1a7fefabb
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="TR | Mor",BEIN MOVIES PREMIERE
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21977479648205db1b3061
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" tvg-logo="https://logo.huhu.to/logo?c=2244069093.png" group-title="TR | Mor",BEIN MOVIES PREMIERE 2
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/22440690938318303270a5
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="TR | Mor",BEIN MOVIES PREMIERE 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2120218356a82436bd0e59
 #EXTINF:-1 tvg-name="BEIN MOVIES STARS" tvg-logo="https://logo.huhu.to/logo?c=2500913164.png" group-title="TR | Mor",BEIN MOVIES STARS
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/250091316466da3ef72786
-#EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="TR | Mor",BEIN MOVIES STARS
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/19637487849304979bfdcb
 #EXTINF:-1 tvg-name="BEIN MOVIES TURK" tvg-logo="https://logo.huhu.to/logo?c=3390575948.png" group-title="TR | Mor",BEIN MOVIES TURK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/33905759489e0915a21ca8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/gd6b_yvrc7.png" tvg-name="BEIN MOVIES TURK" group-title="TR | Mor",BEIN MOVIES TURK
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1835579025e6a7c2daa604
 #EXTINF:-1 tvg-name="BEIN SERIES 1" tvg-logo="https://logo.huhu.to/logo?c=2190922298.png" group-title="TR | Mor",BEIN SERIES 1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2190922298d7f7ef0a716a
 #EXTINF:-1 tvg-name="BEIN SERIES 2" tvg-logo="https://logo.huhu.to/logo?c=3308693738.png" group-title="TR | Mor",BEIN SERIES 2
@@ -506,8 +500,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1249271114781b9186b725
 #EXTINF:-1 tvg-name="BEIN SERIES COMEDY" group-title="TR | Mor",BEIN SERIES COMEDY
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1668144911142c3ab6cc28
-#EXTINF:-1 tvg-name="BEIN SERIES DRAMA" tvg-logo="https://logo.huhu.to/logo?c=3413672103.png" group-title="TR | Mor",BEIN SERIES DRAMA
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/341367210335f81e9e7146
 #EXTINF:-1 tvg-name="BEIN SERIES DRAMA" group-title="TR | Mor",BEIN SERIES DRAMA
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/727975195a22d80d147d6
 #EXTINF:-1 tvg-name="BEIN SERIES SCI-FI" group-title="TR | Mor",BEIN SERIES SCI-FI
@@ -580,14 +572,10 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/396148010898f34add6b9d
 #EXTINF:-1 tvg-name="EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]" group-title="TR | Mor",EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY]
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3807939453af427a7aa295
-#EXTINF:-1 tvg-name="EXXEN SPORTS 4" group-title="TR | Mor",EXXEN SPORTS 4
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/27710240609c46572439c0
 #EXTINF:-1 tvg-name="EXXEN SPORTS 5" group-title="TR | Mor",EXXEN SPORTS 5
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2555007244d10a40e57838
 #EXTINF:-1 tvg-name="EXXEN SPORTS 6" group-title="TR | Mor",EXXEN SPORTS 6
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/375666582074de424d42bf
-#EXTINF:-1 tvg-name="EXXEN SPORTS 7" group-title="TR | Mor",EXXEN SPORTS 7
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/38006954042bb57163b020
 #EXTINF:-1 tvg-name="EXXEN SPORTS 8" group-title="TR | Mor",EXXEN SPORTS 8
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1624937917c024524dfe03
 #EXTINF:-1 tvg-name="4K TR: EXXEN TV" group-title="TR | Mor",4K TR: EXXEN TV
@@ -634,6 +622,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/919993168ebbbfbeecc50
 #EXTINF:-1 tvg-name="S-SPORT 1 UHD" tvg-logo="https://logo.huhu.to/logo?c=3531762195.png" group-title="TR | Mor",S-SPORT 1 UHD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3531762195c7260405eaad
+#EXTINF:-1 tvg-name="S-SPORT 2 HD" tvg-logo="https://logo.huhu.to/logo?c=1183409452.png" group-title="TR | Mor",S-SPORT 2 HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1183409452148e7cb0f613
 #EXTINF:-1 tvg-name="S-SPORT 2 UHD" tvg-logo="https://logo.huhu.to/logo?c=3943651030.png" group-title="TR | Mor",S-SPORT 2 UHD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/394365103048c3f48946a4
 #EXTINF:-1 tvg-name="S-SPORT PLUS FHD" group-title="TR | Mor",S-SPORT PLUS FHD
@@ -738,8 +728,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3257883752581103543ff6
 #EXTINF:-1 tvg-name="CINEVERSE AKSİYON 1" group-title="TR | Sinema & Dizi",CINEVERSE AKSİYON 1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3682781133a560f6274bda
-#EXTINF:-1 tvg-name="CINEVERSE AKSİYON 2" group-title="TR | Sinema & Dizi",CINEVERSE AKSİYON 2
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/26195223335e9993841495
 #EXTINF:-1 tvg-name="CINEVERSE AKSİYON 3" group-title="TR | Sinema & Dizi",CINEVERSE AKSİYON 3
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/270549521339c69a636fd1
 #EXTINF:-1 tvg-name="CINEVERSE AKSİYON 4" group-title="TR | Sinema & Dizi",CINEVERSE AKSİYON 4
@@ -798,8 +786,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/279983351686031332ed5d
 #EXTINF:-1 tvg-name="CINEVERSE MARVEL 2" group-title="TR | Sinema & Dizi",CINEVERSE MARVEL 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/377922649227d0cea6f155
-#EXTINF:-1 tvg-name="CINEVERSE MARVEL 3" group-title="TR | Sinema & Dizi",CINEVERSE MARVEL 3
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3693232844666318d44170
 #EXTINF:-1 tvg-name="CINEVERSE MARVEL 4" group-title="TR | Sinema & Dizi",CINEVERSE MARVEL 4
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/184566550091ec1fac85e1
 #EXTINF:-1 tvg-name="CINEVERSE MARVEL 5" group-title="TR | Sinema & Dizi",CINEVERSE MARVEL 5
@@ -818,32 +804,14 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/37613920139dff0571ebd1
 #EXTINF:-1 tvg-name="ELIFIN DUSLERI" group-title="TR | Sinema & Dizi",ELIFIN DUSLERI
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24063236237528e0650313
-#EXTINF:-1 tvg-name="ENO AKSIYON 1" group-title="TR | Sinema & Dizi",ENO AKSIYON 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/633768195851d6f914620
-#EXTINF:-1 tvg-name="ENO VIZYON 1" group-title="TR | Sinema & Dizi",ENO VIZYON 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1949742603d0b9dbc5b085
-#EXTINF:-1 tvg-name="ENO VIZYON 10" group-title="TR | Sinema & Dizi",ENO VIZYON 10
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/16353843521c8bc85d3257
 #EXTINF:-1 tvg-name="ENO VIZYON 11" group-title="TR | Sinema & Dizi",ENO VIZYON 11
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/15451969449f4d1501d4d6
 #EXTINF:-1 tvg-name="ENO VIZYON 14" group-title="TR | Sinema & Dizi",ENO VIZYON 14
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24993696962ff7f5610706
 #EXTINF:-1 tvg-name="ENO VIZYON 15" group-title="TR | Sinema & Dizi",ENO VIZYON 15
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/284540603246df8257572c
-#EXTINF:-1 tvg-name="ENO VIZYON 2" group-title="TR | Sinema & Dizi",ENO VIZYON 2
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/865520859bc8f99dfe7e6
-#EXTINF:-1 tvg-name="ENO VIZYON 3" group-title="TR | Sinema & Dizi",ENO VIZYON 3
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/251061611b2926c45182b
 #EXTINF:-1 tvg-name="ENO VIZYON 5" group-title="TR | Sinema & Dizi",ENO VIZYON 5
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2176192715addf7772f995
-#EXTINF:-1 tvg-name="ENO VIZYON 6" group-title="TR | Sinema & Dizi",ENO VIZYON 6
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3323357723a9a1a6c8339f
-#EXTINF:-1 tvg-name="ENO VIZYON 7" group-title="TR | Sinema & Dizi",ENO VIZYON 7
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4218831787cff46d390bb0
-#EXTINF:-1 tvg-name="ENO VIZYON 8" group-title="TR | Sinema & Dizi",ENO VIZYON 8
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2032587898f7a29565e065
-#EXTINF:-1 tvg-name="ENO VIZYON 9" group-title="TR | Sinema & Dizi",ENO VIZYON 9
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1145503178453c24f6b22a
 #EXTINF:-1 tvg-name="ENO WESTERN" group-title="TR | Sinema & Dizi",ENO WESTERN
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1329952795f51a78bc2ce9
 #EXTINF:-1 tvg-name="ENO WESTERN" group-title="TR | Sinema & Dizi",ENO WESTERN
@@ -922,12 +890,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/858266837de2519924a62
 #EXTINF:-1 tvg-name="MAX VIZYON" group-title="TR | Sinema & Dizi",MAX VIZYON
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/10169097042ec400fe56c
-#EXTINF:-1 tvg-name="MAX VIZYON 1" group-title="TR | Sinema & Dizi",MAX VIZYON 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3792548191c93cb5a746fc
 #EXTINF:-1 tvg-name="MAX VIZYON 2" group-title="TR | Sinema & Dizi",MAX VIZYON 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2779630479c620a8ca663e
 #EXTINF:-1 tvg-name="MAX VIZYON 3" group-title="TR | Sinema & Dizi",MAX VIZYON 3
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2563629631cb03dcc2d823
+#EXTINF:-1 tvg-name="MAX VIZYON 4" group-title="TR | Sinema & Dizi",MAX VIZYON 4
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/720191023e621b43c1e7b
 #EXTINF:-1 tvg-name="MAX WESTERN" group-title="TR | Sinema & Dizi",MAX WESTERN
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5230184723f480d3c76d3
 #EXTINF:-1 tvg-name="PROTURK ACTION" group-title="TR | Sinema & Dizi",PROTURK ACTION
@@ -984,26 +952,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24848056995333a11423de
 #EXTINF:-1 tvg-name="SINEMAX COMEDI" group-title="TR | Sinema & Dizi",SINEMAX COMEDI
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/846127862b288e0183d23
-#EXTINF:-1 tvg-name="SINEMAX DRAMA" group-title="TR | Sinema & Dizi",SINEMAX DRAMA
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2789249461c1ad5d07b17a
-#EXTINF:-1 tvg-name="SINEMAX FAMILY" group-title="TR | Sinema & Dizi",SINEMAX FAMILY
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/14694844750eea4e90973f
-#EXTINF:-1 tvg-name="SINEMAX TURK" group-title="TR | Sinema & Dizi",SINEMAX TURK
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4201568953301b0088849e
 #EXTINF:-1 tvg-name="SINEVIZYON 5" group-title="TR | Sinema & Dizi",SINEVIZYON 5
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/567459984fcc0c3381a21
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 1" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 1
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/237327525e72f36a04e37
 #EXTINF:-1 tvg-name="SINEVIZYON TURK 2" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1233464949183c7280e3a4
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 5" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 5
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4221956709ff9a263200e0
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 6" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 6
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/315447928559cf5bc5d2cd
 #EXTINF:-1 tvg-name="SINEVIZYON TURK 7" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 7
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21709212216ea5f185ca61
-#EXTINF:-1 tvg-name="SINEVIZYON TURK 9" group-title="TR | Sinema & Dizi",SINEVIZYON TURK 9
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/10457659887777aa426858
 #EXTINF:-1 tvg-name="4K TR: SİNEMA 1002 HD" group-title="TR | Sinema & Dizi",4K TR: SİNEMA 1002 HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1076643856c5c88735393f
 #EXTINF:-1 tvg-name="4K TR: SİNEMA AİLE HD" group-title="TR | Sinema & Dizi",4K TR: SİNEMA AİLE HD
@@ -1078,14 +1032,14 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/41034540643b582da308f
 #EXTINF:-1 tvg-name="DA VINCI LEARNING" group-title="TR | Çocuk",DA VINCI LEARNING
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1268465409d81cf808f3af
+#EXTINF:-1 tvg-name="DISNEY CHANNEL HD" group-title="TR | Çocuk",DISNEY CHANNEL HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3578544716a4cc42d03dcd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnKKSFPT/Disney-Junior-Logo.png" tvg-name="DISNEY JR HD" group-title="TR | Çocuk",DISNEY JR HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4108765291d43a8a0a8088
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnKKSFPT/Disney-Junior-Logo.png" tvg-name="DISNEY JR HD+" group-title="TR | Çocuk",DISNEY JR HD+
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1772892321058f7001d327
 #EXTINF:-1 tvg-name="4K TR: DISNEY JUNIOR" group-title="TR | Çocuk",4K TR: DISNEY JUNIOR
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6492287228e9a72f932b5
-#EXTINF:-1 tvg-name="DISNEY XD HD" group-title="TR | Çocuk",DISNEY XD HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/34228536805e87ad5629aa
 #EXTINF:-1 tvg-name="4K TR: DUCK TV HD" group-title="TR | Çocuk",4K TR: DUCK TV HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1709129189f694bdd416ac
 #EXTINF:-1 tvg-name="EBA TV ILKOKUL" tvg-logo="https://logo.huhu.to/logo?c=3316189195.png" group-title="TR | Çocuk",EBA TV ILKOKUL
@@ -1095,7 +1049,7 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 #EXTINF:-1 tvg-name="EBA TV ORTAOKUL" tvg-logo="https://logo.huhu.to/logo?c=3751527622.png" group-title="TR | Çocuk",EBA TV ORTAOKUL
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/375152762211b2a1adeae9
 #EXTINF:-1 tvg-name="ENO ANIMASYON" group-title="TR | Çocuk",ENO ANIMASYON
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/38337533385e11d005954b
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6596944878e4d33423978
 #EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg/gt-shows-tv/20260829050000.jpg" tvg-name="KELOGLAN" group-title="TR | Çocuk",KELOGLAN
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7506985355cc13fb952d5
 #EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg/gt-minikacocuk/20260827223000.jpg" tvg-name="KUKULI TV" group-title="TR | Çocuk",KUKULI TV
@@ -1130,8 +1084,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1384991998bbb9bc709eb1
 #EXTINF:-1 tvg-name="NICKELODEON HD" group-title="TR | Çocuk",NICKELODEON HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/503443750d4adaa3772e8
-#EXTINF:-1 tvg-name="4K TR: NICKTOONS" group-title="TR | Çocuk",4K TR: NICKTOONS
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/988691374172058ef3d50
 #EXTINF:-1 tvg-name="PEPEE TV" group-title="TR | Çocuk",PEPEE TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2502633157e4cecb0b9c9c
 #EXTINF:-1 tvg-name="PIJAMA MASKELILER TV" group-title="TR | Çocuk",PIJAMA MASKELILER TV
@@ -1144,8 +1096,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6857948301fe52b3221a3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv7dc7Df/TRT-Cocuk-logo-(2021)-svg.webp" tvg-name="TRT COCUK" group-title="TR | Çocuk",TRT COCUK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/792228122ef3135bf6801
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv7dc7Df/TRT-Cocuk-logo-(2021)-svg.webp" tvg-name="TRT COCUK RAW" group-title="TR | Çocuk",TRT COCUK RAW
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3979837190d92f4a65c83b
 #EXTINF:-1 tvg-name="TRT DIYANET COCUK" tvg-logo="https://logo.huhu.to/logo?c=1101849390.png" group-title="TR | Çocuk",TRT DIYANET COCUK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1101849390824792e0390b
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="TR | Belgesel",ANIMAL PLANET
@@ -1160,8 +1110,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6957057788f10364acdac
 #EXTINF:-1 tvg-name="DISCOVERY ID" group-title="TR | Belgesel",DISCOVERY ID
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/20954040600611bde9e160
-#EXTINF:-1 tvg-name="DISCOVERY ID" group-title="TR | Belgesel",DISCOVERY ID
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/972730032fe506471c990
 #EXTINF:-1 tvg-name="DISCOVERY IDX HD" group-title="TR | Belgesel",DISCOVERY IDX HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9700986623c97a7651f69
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://logo.huhu.to/logo?c=1013220447.png" group-title="TR | Belgesel",DISCOVERY SCIENCE
@@ -1182,8 +1130,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/420748756258a17d4693fc
 #EXTINF:-1 tvg-name="HISTORY CHANNEL" group-title="TR | Belgesel",HISTORY CHANNEL
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24153315684694fb309dba
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://logo.huhu.to/logo?c=1372455233.png" group-title="TR | Belgesel",INVESTIGATION DISCOVERY
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1372455233dfff5072538c
 #EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-logo="https://logo.huhu.to/logo?c=3309481234.png" group-title="TR | Belgesel",LOVE NATURE HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3309481234d6bfa8dd5880
 #EXTINF:-1 tvg-name="4K TR: LOVE NATURE HD" group-title="TR | Belgesel",4K TR: LOVE NATURE HD
@@ -1252,8 +1198,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1383473435135cf669b662
 #EXTINF:-1 tvg-name="DÜĞÜN TV (GERMANY)" group-title="TR | Müzik",DÜĞÜN TV (GERMANY)
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2660902091c248c72d0cd6
-#EXTINF:-1 tvg-name="4K TR: ENGLISH CLUB TV" group-title="TR | Müzik",4K TR: ENGLISH CLUB TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/925055356337611dcda8b
 #EXTINF:-1 tvg-name="FASIL NEVIZADE GECELERI" group-title="TR | Müzik",FASIL NEVIZADE GECELERI
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3597878428da15fa9fa57e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcDxZ5sB/logo-44.png" tvg-name="POWER HD" group-title="TR | Müzik",POWER HD
@@ -1262,8 +1206,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4234416466b6878ac343d7
 #EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://logo.huhu.to/logo?c=1783508809.png" group-title="TR | Müzik",POWER LOVE
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/178350880905c3993617e6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvr23jZP/Powerturk-TV-logosu.png" tvg-name="4K TR: POWER TURK HD" group-title="TR | Müzik",4K TR: POWER TURK HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/42444473843632d84d102d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xvr23jZP/Powerturk-TV-logosu.png" tvg-name="POWER TURK" group-title="TR | Müzik",POWER TURK
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/538668348aa4815e4285a
 #EXTINF:-1 tvg-name="POWER TURK TV" tvg-logo="https://logo.huhu.to/logo?c=176662368.png" group-title="TR | Müzik",POWER TURK TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/17666236897fc019f2aef
 #EXTINF:-1 tvg-name="POWER TÜRK TÜRKÇE POP" group-title="TR | Müzik",POWER TÜRK TÜRKÇE POP
@@ -1294,8 +1238,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/970382162286220f5fa39
 #EXTINF:-1 tvg-name="TURK ROCK" group-title="TR | Müzik",TURK ROCK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/22453954397587215209b7
-#EXTINF:-1 tvg-name="TÜRKÇE POP" group-title="TR | Müzik",TÜRKÇE POP
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/27868531047ce3c7e0c624
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLsvG246/37957928-ico.png" tvg-name="AL ZAHRA TV" group-title="TR | Dini",AL ZAHRA TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/208882947efd1028551d8
 #EXTINF:-1 tvg-name="ASHABI KEHF" group-title="TR | Dini",ASHABI KEHF
@@ -1314,8 +1256,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/799884057e7cb32a0489c
 #EXTINF:-1 tvg-name="GURBET24 TV" tvg-logo="https://logo.huhu.to/logo?c=55116964.png" group-title="TR | Dini",GURBET24 TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/55116964941a7acb8360
+#EXTINF:-1 tvg-name="HZ MERYEM" group-title="TR | Dini",HZ MERYEM
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9613074964daf22a2c5fc
 #EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg/gt-trtdiyanet/20260828183000.jpg" tvg-name="HZ OMER" group-title="TR | Dini",HZ OMER
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/340307369a956333926c8
+#EXTINF:-1 tvg-name="HZ YUSUF" group-title="TR | Dini",HZ YUSUF
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/33626689306c6d20dc4db
 #EXTINF:-1 tvg-logo="https://kudustv.com.tr/images/logo/logo.png?" tvg-name="KUDUS TV" group-title="TR | Dini",KUDUS TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/211438405134cf6d8a4129
 #EXTINF:-1 tvg-logo="https://kudustv.com.tr/images/logo/logo.png?" tvg-name="KUDUS TV" group-title="TR | Dini",KUDUS TV
@@ -1330,8 +1276,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3483642933b7febea98a62
 #EXTINF:-1 tvg-name="MAM EBU HANIFE" group-title="TR | Dini",MAM EBU HANIFE
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1986235183c48888a68609
-#EXTINF:-1 tvg-name="MESAJ TV" group-title="TR | Dini",MESAJ TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1751593588ad9f10b37811
 #EXTINF:-1 tvg-logo="https://www.sat7turk.com/images/site/stu-logo.png" tvg-name="SAT 7 TURK" group-title="TR | Dini",SAT 7 TURK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/237609064654251acc3bd9
 #EXTINF:-1 tvg-logo="https://www.sat7turk.com/images/site/stu-logo.png" tvg-name="SAT 7 TURK" group-title="TR | Dini",SAT 7 TURK
@@ -1340,6 +1284,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/42280465621064ebc15bba
 #EXTINF:-1 tvg-logo="https://www.semerkandtv.com.tr/Content/img/logo.png" tvg-name="SEMERKAND" group-title="TR | Dini",SEMERKAND
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2341562915776a2be51890
+#EXTINF:-1 tvg-logo="https://www.semerkandtv.com.tr/Content/img/logo.png" tvg-name="SEMERKAND RAW" group-title="TR | Dini",SEMERKAND RAW
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/372623895787d90dff9a7c
 #EXTINF:-1 tvg-logo="https://www.semerkandtv.com.tr/Content/img/logo.png" tvg-name="SEMERKAND TV HD" group-title="TR | Dini",SEMERKAND TV HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4096268883d8a4639bc323
 #EXTINF:-1 tvg-name="SURELER VE TÜRKÇE MEALI" group-title="TR | Dini",SURELER VE TÜRKÇE MEALI
@@ -1350,8 +1296,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/94903312294e3da09f3b7
 #EXTINF:-1 tvg-name="VUSLAT TV" group-title="TR | Dini",VUSLAT TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/106175275801eef0c50dd7
-#EXTINF:-1 tvg-name="YOL TV" group-title="TR | Dini",YOL TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/36035801315c2c657f7f29
 #EXTINF:-1 tvg-name="YOL TV" tvg-logo="https://logo.huhu.to/logo?c=1377055653.png" group-title="TR | Dini",YOL TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1377055653aae1eccd061c
 #EXTINF:-1 tvg-name="YOL TV" group-title="TR | Dini",YOL TV
@@ -1392,8 +1336,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3491525845a8862ff934e0
 #EXTINF:-1 tvg-name="ADA TV" tvg-logo="https://logo.huhu.to/logo?c=2134735285.png" group-title="TR | Yerel & Diğer",ADA TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21347352852305a53dccfa
-#EXTINF:-1 tvg-name="ADANA TV" group-title="TR | Yerel & Diğer",ADANA TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/225124967e1e5b6a748e0
 #EXTINF:-1 tvg-name="ADIYAMAN MERCAN TV" group-title="TR | Yerel & Diğer",ADIYAMAN MERCAN TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3055235391a02f432de784
 #EXTINF:-1 tvg-name="AFROTURK TV" tvg-logo="https://logo.huhu.to/logo?c=208059042.png" group-title="TR | Yerel & Diğer",AFROTURK TV
@@ -1404,6 +1346,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/145755891783da06dac9f
 #EXTINF:-1 tvg-name="AGRO TV" tvg-logo="https://logo.huhu.to/logo?c=1633587820.png" group-title="TR | Yerel & Diğer",AGRO TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/163358782054d9002fa0b0
+#EXTINF:-1 tvg-name="AKLILI TV" group-title="TR | Yerel & Diğer",AKLILI TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3737299250dadf300b85e4
 #EXTINF:-1 tvg-name="AKSARAY KANAL 68" group-title="TR | Yerel & Diğer",AKSARAY KANAL 68
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9558066722545d9635261
 #EXTINF:-1 tvg-name="AKSU TV" tvg-logo="https://logo.huhu.to/logo?c=2170702658.png" group-title="TR | Yerel & Diğer",AKSU TV
@@ -1420,6 +1364,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1468389014c01ae6ad3546
 #EXTINF:-1 tvg-name="ANADOLU DERNEK TV" group-title="TR | Yerel & Diğer",ANADOLU DERNEK TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4274827801d7c79d4e1a26
+#EXTINF:-1 tvg-name="ANADOLU DERNEK TV" tvg-logo="https://logo.huhu.to/logo?c=3978460736.png" group-title="TR | Yerel & Diğer",ANADOLU DERNEK TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3978460736eee7cf5d26f1
 #EXTINF:-1 tvg-name="ANADOLU TV" group-title="TR | Yerel & Diğer",ANADOLU TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1917558455120761543969
 #EXTINF:-1 tvg-name="ANKARA TÜRKİYEM TV" group-title="TR | Yerel & Diğer",ANKARA TÜRKİYEM TV
@@ -1438,6 +1384,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/20845874371f2603935ccd
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/fullhd-rogue-4.jpg" tvg-name="AV TV" group-title="TR | Yerel & Diğer",AV TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/154080342742a01f2d589
+#EXTINF:-1 tvg-name="BIR TV" tvg-logo="https://logo.huhu.to/logo?c=2540770089.png" group-title="TR | Yerel & Diğer",BIR TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/25407700892aa536e1a9ff
 #EXTINF:-1 tvg-name="BRTV" tvg-logo="https://logo.huhu.to/logo?c=134086061.png" group-title="TR | Yerel & Diğer",BRTV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/134086061839e644f1eaa
 #EXTINF:-1 tvg-name="CAN TV" group-title="TR | Yerel & Diğer",CAN TV
@@ -1450,8 +1398,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4090316698975ac8a762bd
 #EXTINF:-1 tvg-name="CIFTCI TV" tvg-logo="https://logo.huhu.to/logo?c=3124431103.png" group-title="TR | Yerel & Diğer",CIFTCI TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3124431103898180a5f0f6
-#EXTINF:-1 tvg-logo="https://www.ciftcitv.com/assets/images/logo_dark.svg" tvg-name="CIFTCI TV" group-title="TR | Yerel & Diğer",CIFTCI TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/318577866765847010459c
 #EXTINF:-1 tvg-name="ÇANAKKALE BOĞAZ TV" group-title="TR | Yerel & Diğer",ÇANAKKALE BOĞAZ TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1943578223ce7cc4b1c284
 #EXTINF:-1 tvg-name="ÇANAKKALE TON TV" group-title="TR | Yerel & Diğer",ÇANAKKALE TON TV
@@ -1462,20 +1408,16 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/23018905930073141351c
 #EXTINF:-1 tvg-name="DIGI MAX" group-title="TR | Yerel & Diğer",DIGI MAX
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/127844757686ca7d664ae5
-#EXTINF:-1 tvg-name="DIM TV" tvg-logo="https://logo.huhu.to/logo?c=1072972009.png" group-title="TR | Yerel & Diğer",DIM TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1072972009ade9e4b4a779
-#EXTINF:-1 tvg-name="DIYAR TV" group-title="TR | Yerel & Diğer",DIYAR TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4252763849da396737d0fb
 #EXTINF:-1 tvg-name="DUCU BOX" group-title="TR | Yerel & Diğer",DUCU BOX
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1107525733e42b6c7abd3
 #EXTINF:-1 tvg-name="EDESSA TV" tvg-logo="https://logo.huhu.to/logo?c=2154492528.png" group-title="TR | Yerel & Diğer",EDESSA TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/215449252887e52acd6803
 #EXTINF:-1 tvg-name="EDİRNE ETV" group-title="TR | Yerel & Diğer",EDİRNE ETV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/658726604ae88a8e690ef
+#EXTINF:-1 tvg-name="EGE TURK TV" group-title="TR | Yerel & Diğer",EGE TURK TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4225938876155a05d54219
 #EXTINF:-1 tvg-name="EKIN TURK" tvg-logo="https://logo.huhu.to/logo?c=666401379.png" group-title="TR | Yerel & Diğer",EKIN TURK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/666401379556f17cdcc8c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHdRX0gJ/logo-removebg-preview.png" tvg-name="EKIN TÜRK TV" group-title="TR | Yerel & Diğer",EKIN TÜRK TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6574952728e780b291cc7
 #EXTINF:-1 tvg-name="ELAZIĞ KANAL 23" group-title="TR | Yerel & Diğer",ELAZIĞ KANAL 23
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/350404585796b6d306497a
 #EXTINF:-1 tvg-name="ELAZIĞ KANAL FIRAT" group-title="TR | Yerel & Diğer",ELAZIĞ KANAL FIRAT
@@ -1484,6 +1426,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/34986587209d7d94f684e5
 #EXTINF:-1 tvg-name="ERCIS TV" tvg-logo="https://logo.huhu.to/logo?c=2901457550.png" group-title="TR | Yerel & Diğer",ERCIS TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/29014575503efc1f62c0c9
+#EXTINF:-1 tvg-name="ERTV" tvg-logo="https://logo.huhu.to/logo?c=221836468.png" group-title="TR | Yerel & Diğer",ERTV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/221836468186fc17b1865
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMGW1q5Q/37975583-ico.png" tvg-name="ERZURUM WEB TV" group-title="TR | Yerel & Diğer",ERZURUM WEB TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1736962708902f1c3b6ce3
 #EXTINF:-1 tvg-name="ES TV (ESKİŞEHİR)" tvg-logo="https://logo.huhu.to/logo?c=1670462361.png" group-title="TR | Yerel & Diğer",ES TV (ESKİŞEHİR)
@@ -1506,14 +1450,18 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/21476140819198063bb491
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V68NjzjJ/s273848g.png" tvg-name="FINEST TV" group-title="TR | Yerel & Diğer",FINEST TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2663765748ad351c6aadb3
+#EXTINF:-1 tvg-name="FMTV" group-title="TR | Yerel & Diğer",FMTV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3681963823264351faabac
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdtBtvWb/37975749-ico.png" tvg-name="FORTUNA TV" group-title="TR | Yerel & Diğer",FORTUNA TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/41929319076cd0eddc6be1
 #EXTINF:-1 tvg-name="GAZİANTEP GRT TV" group-title="TR | Yerel & Diğer",GAZİANTEP GRT TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/28430116980561d04db9e1
+#EXTINF:-1 tvg-name="GAZİANTEP OLAY TV" group-title="TR | Yerel & Diğer",GAZİANTEP OLAY TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24135369173688afe711d0
+#EXTINF:-1 tvg-name="GONCA TV" group-title="TR | Yerel & Diğer",GONCA TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3241393177ad99ccefaa75
 #EXTINF:-1 tvg-name="GRT TV" tvg-logo="https://logo.huhu.to/logo?c=2577534278.png" group-title="TR | Yerel & Diğer",GRT TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/257753427816f6887294b8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFTtVwLP/37976149-ico.png" tvg-name="GUNEYDOGU" group-title="TR | Yerel & Diğer",GUNEYDOGU
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/454047044e689f6c02bf8
 #EXTINF:-1 tvg-name="GUNEYDOGU TV" tvg-logo="https://logo.huhu.to/logo?c=3302625312.png" group-title="TR | Yerel & Diğer",GUNEYDOGU TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3302625312acf4f83dd0ca
 #EXTINF:-1 tvg-name="HASAN VE HUSEYIN" group-title="TR | Yerel & Diğer",HASAN VE HUSEYIN
@@ -1526,12 +1474,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/248885940021ca59895ab2
 #EXTINF:-1 tvg-name="ILKE TV" tvg-logo="https://logo.huhu.to/logo?c=1743510188.png" group-title="TR | Yerel & Diğer",ILKE TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/174351018825b7f2625f46
-#EXTINF:-1 tvg-name="ISVI RE VIZYON TV" group-title="TR | Yerel & Diğer",ISVI RE VIZYON TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/16767374902e45f8713ca0
 #EXTINF:-1 tvg-name="IZ TV" group-title="TR | Yerel & Diğer",IZ TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3847791361fc30e8aeff33
 #EXTINF:-1 tvg-name="KADIRGA" group-title="TR | Yerel & Diğer",KADIRGA
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2717283979bbc89b971f6e
+#EXTINF:-1 tvg-name="KADIRGA TV" tvg-logo="https://logo.huhu.to/logo?c=2093940826.png" group-title="TR | Yerel & Diğer",KADIRGA TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2093940826f764b66f64f5
 #EXTINF:-1 tvg-name="KAHRAMANMARAŞ AKSU TV" group-title="TR | Yerel & Diğer",KAHRAMANMARAŞ AKSU TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1716018058bd4b2efcbfe2
 #EXTINF:-1 tvg-name="KANAL 12" tvg-logo="https://logo.huhu.to/logo?c=2917371409.png" group-title="TR | Yerel & Diğer",KANAL 12
@@ -1564,8 +1512,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/219029632197a4acdec89f
 #EXTINF:-1 tvg-name="KANAL FIRAT" tvg-logo="https://logo.huhu.to/logo?c=744021843.png" group-title="TR | Yerel & Diğer",KANAL FIRAT
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7440218437e242db07f3d
-#EXTINF:-1 tvg-name="KANAL HAYAT" tvg-logo="https://logo.huhu.to/logo?c=897076110.png" group-title="TR | Yerel & Diğer",KANAL HAYAT
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/897076110f2f104884685
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HspgzRkY/38346060-ico.png" tvg-name="KANAL T" group-title="TR | Yerel & Diğer",KANAL T
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/18316756832635b98c5840
 #EXTINF:-1 tvg-name="KANAL URFA" tvg-logo="https://logo.huhu.to/logo?c=847659673.png" group-title="TR | Yerel & Diğer",KANAL URFA
@@ -1576,14 +1522,18 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/22154054220264091689b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gkNWJvjN/channels4-profile-removebg-preview-(2).png" tvg-name="KANAL V" group-title="TR | Yerel & Diğer",KANAL V
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4014377632f76bd61156e
+#EXTINF:-1 tvg-name="KARADENIZ BRTV" group-title="TR | Yerel & Diğer",KARADENIZ BRTV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1846780399d742807cb82e
 #EXTINF:-1 tvg-name="KARDELEN TV" tvg-logo="https://logo.huhu.to/logo?c=1270110607.png" group-title="TR | Yerel & Diğer",KARDELEN TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/127011060769330a43e05e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwxcCtT/unnamed-removebg-preview-(1).png" tvg-name="KARDELEN TV" group-title="TR | Yerel & Diğer",KARDELEN TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1198414561ad7fab54a200
+#EXTINF:-1 tvg-name="KAYSERİ KAY TV" group-title="TR | Yerel & Diğer",KAYSERİ KAY TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1680483887afbf5bdf5ab
+#EXTINF:-1 tvg-name="KAYSERİ KENT TV" group-title="TR | Yerel & Diğer",KAYSERİ KENT TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/161664882db20229c6558
 #EXTINF:-1 tvg-name="KAYSERİ OLAY TÜRK TV" group-title="TR | Yerel & Diğer",KAYSERİ OLAY TÜRK TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2071472807593f1d194a5a
-#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_94.png?v=3" tvg-name="KENT TURK" group-title="TR | Yerel & Diğer",KENT TURK
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7046897870b9485f78db8
 #EXTINF:-1 tvg-name="KENT TÜRK" tvg-logo="https://logo.huhu.to/logo?c=3962582829.png" group-title="TR | Yerel & Diğer",KENT TÜRK
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3962582829ee477739be5f
 #EXTINF:-1 tvg-name="KIBRIS GENÇ TV" tvg-logo="https://logo.huhu.to/logo?c=3115477419.png" group-title="TR | Yerel & Diğer",KIBRIS GENÇ TV
@@ -1592,12 +1542,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/506213824a8ea2f79b5e0
 #EXTINF:-1 tvg-name="KIBRIS TV" tvg-logo="https://logo.huhu.to/logo?c=631930666.png" group-title="TR | Yerel & Diğer",KIBRIS TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6319306667939f9fe7402
-#EXTINF:-1 tvg-name="KOCAELİ TV" tvg-logo="https://logo.huhu.to/logo?c=3702528985.png" group-title="TR | Yerel & Diğer",KOCAELİ TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3702528985a3c17ff125d1
 #EXTINF:-1 tvg-name="KON TV" tvg-logo="https://logo.huhu.to/logo?c=862610701.png" group-title="TR | Yerel & Diğer",KON TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/862610701d8d72799d50e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNnCsQpT/38508988-ico.png" tvg-name="KON TV" group-title="TR | Yerel & Diğer",KON TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/158799585456f0116e352b
+#EXTINF:-1 tvg-name="KONYA KON TV" group-title="TR | Yerel & Diğer",KONYA KON TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/37593642738038d993fa1e
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_163.png?v=3" tvg-name="KONYA OLAY TV" group-title="TR | Yerel & Diğer",KONYA OLAY TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5783808618f2bafca5dba
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/koy-village-16372.jpg" tvg-name="KOY TV" group-title="TR | Yerel & Diğer",KOY TV
@@ -1614,8 +1564,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5505157195cb579669a6c
 #EXTINF:-1 tvg-name="M TÜRK TV" tvg-logo="https://logo.huhu.to/logo?c=3755994420.png" group-title="TR | Yerel & Diğer",M TÜRK TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/375599442073736b876622
-#EXTINF:-1 tvg-name="MALATYA ERTV" group-title="TR | Yerel & Diğer",MALATYA ERTV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/40628667609eeef2c85a17
 #EXTINF:-1 tvg-name="MAVI KARADENIZ" group-title="TR | Yerel & Diğer",MAVI KARADENIZ
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/385468935030b3686d0215
 #EXTINF:-1 tvg-name="MAVI KARADENIZ" group-title="TR | Yerel & Diğer",MAVI KARADENIZ
@@ -1634,6 +1582,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/36288465850c4461a9fd50
 #EXTINF:-1 tvg-name="MELTEM TV" tvg-logo="https://logo.huhu.to/logo?c=1344824890.png" group-title="TR | Yerel & Diğer",MELTEM TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/134482489061cbfbcb263a
+#EXTINF:-1 tvg-logo="https://meltemtv.com.tr/uploads/logo.png" tvg-name="4K TR: MELTEM TV" group-title="TR | Yerel & Diğer",4K TR: MELTEM TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/70038106882c930faaa1b
 #EXTINF:-1 tvg-name="MERCAN TV" tvg-logo="https://logo.huhu.to/logo?c=3132704137.png" group-title="TR | Yerel & Diğer",MERCAN TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3132704137f87bc5cba15d
 #EXTINF:-1 tvg-logo="https://www.mercantv.com.tr/images/logo.png" tvg-name="MERCAN TV" group-title="TR | Yerel & Diğer",MERCAN TV
@@ -1672,24 +1622,22 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4239242367fb52ed133368
 #EXTINF:-1 tvg-name="RUMELI TV" tvg-logo="https://logo.huhu.to/logo?c=3997988254.png" group-title="TR | Yerel & Diğer",RUMELI TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/399798825472229f330730
-#EXTINF:-1 tvg-logo="https://rumelitv.com.tr/wp-content/uploads/2024/01/RumeliTV-Logo-kontr-250px.webp" tvg-name="RUMELI TV" group-title="TR | Yerel & Diğer",RUMELI TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/391881588210ea08f92125
 #EXTINF:-1 tvg-name="SALON 1" group-title="TR | Yerel & Diğer",SALON 1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/266658353694ea7a9ecdb9
 #EXTINF:-1 tvg-name="SALON 1" group-title="TR | Yerel & Diğer",SALON 1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2217333005768ebcd45bd0
 #EXTINF:-1 tvg-name="SALON 10" group-title="TR | Yerel & Diğer",SALON 10
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3924913181ee67eebdfca5
+#EXTINF:-1 tvg-name="SALON 11" group-title="TR | Yerel & Diğer",SALON 11
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/35662903496732c0fd1282
 #EXTINF:-1 tvg-name="SALON 12" group-title="TR | Yerel & Diğer",SALON 12
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2469478269e1d5d3de8b4e
-#EXTINF:-1 tvg-name="SALON 2" group-title="TR | Yerel & Diğer",SALON 2
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/207951280cf1658f1015f
+#EXTINF:-1 tvg-name="SALON 13" group-title="TR | Yerel & Diğer",SALON 13
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2924549837c11e2fef012d
 #EXTINF:-1 tvg-name="SALON 2" group-title="TR | Yerel & Diğer",SALON 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3645943584c869227b2d53
 #EXTINF:-1 tvg-name="SALON 2" group-title="TR | Yerel & Diğer",SALON 2
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/32805795494a101a59b81a
-#EXTINF:-1 tvg-name="SALON 3" group-title="TR | Yerel & Diğer",SALON 3
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/8224266248b5c8ba2f6e5
 #EXTINF:-1 tvg-name="SALON 3" group-title="TR | Yerel & Diğer",SALON 3
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3828385424290f2ed403d4
 #EXTINF:-1 tvg-name="SALON 4" group-title="TR | Yerel & Diğer",SALON 4
@@ -1704,8 +1652,6 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/118836763334a7ed9bc0d4
 #EXTINF:-1 tvg-name="SALON 9" group-title="TR | Yerel & Diğer",SALON 9
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2075468961d9617344ee42
-#EXTINF:-1 tvg-logo="https://www.sat7turk.com/images/site/stu-logo.png" tvg-name="SAT7 TURK" group-title="TR | Yerel & Diğer",SAT7 TURK
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2978732943ad6c3ffd9d10
 #EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/film/satranc-chess-story-11747.jpg" tvg-name="SATRANÇ TV" group-title="TR | Yerel & Diğer",SATRANÇ TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1192565728f635dd56c60f
 #EXTINF:-1 tvg-name="SELDA BAGCAN" group-title="TR | Yerel & Diğer",SELDA BAGCAN
@@ -1722,20 +1668,22 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/38334830340b3e0ebfcab
 #EXTINF:-1 tvg-name="SIRINLER TV" group-title="TR | Yerel & Diğer",SIRINLER TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/17662417455982b1730d90
+#EXTINF:-1 tvg-name="SİVAS" group-title="TR | Yerel & Diğer",SİVAS
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9857690718548a212a15f
 #EXTINF:-1 tvg-name="SİVAS VIZYON 58 TV" group-title="TR | Yerel & Diğer",SİVAS VIZYON 58 TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/716793106eede08a41963
 #EXTINF:-1 tvg-name="SUN RTV" tvg-logo="https://logo.huhu.to/logo?c=2354543811.png" group-title="TR | Yerel & Diğer",SUN RTV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/235454381152b8bdc405cf
 #EXTINF:-1 tvg-name="SUN TV" group-title="TR | Yerel & Diğer",SUN TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3122863032b740767c3962
-#EXTINF:-1 tvg-name="ŞANLIURFA KANAL URFA" group-title="TR | Yerel & Diğer",ŞANLIURFA KANAL URFA
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7548683513f8b3f808009
 #EXTINF:-1 tvg-name="T.A.Y TV" tvg-logo="https://logo.huhu.to/logo?c=3633765645.png" group-title="TR | Yerel & Diğer",T.A.Y TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/363376564553c0e5fb6262
 #EXTINF:-1 tvg-name="TAY TV" tvg-logo="https://logo.huhu.to/logo?c=1534287048.png" group-title="TR | Yerel & Diğer",TAY TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1534287048d3b84ea2e278
 #EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://logo.huhu.to/logo?c=1770699644.png" group-title="TR | Yerel & Diğer",TBMM TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/17706996443661c5809131
+#EXTINF:-1 tvg-name="TEK RUMEL TV" group-title="TR | Yerel & Diğer",TEK RUMEL TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/202934479567a99d31ca30
 #EXTINF:-1 tvg-name="TEMPO" group-title="TR | Yerel & Diğer",TEMPO
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3475377621188add6e6abc
 #EXTINF:-1 tvg-name="TEMPO TV" group-title="TR | Yerel & Diğer",TEMPO TV
@@ -1744,10 +1692,10 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/23025527440c3e840d27e8
 #EXTINF:-1 tvg-name="TIVI 6" tvg-logo="https://logo.huhu.to/logo?c=774168016.png" group-title="TR | Yerel & Diğer",TIVI 6
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7741680162cf446ba65c6
+#EXTINF:-1 tvg-name="TIVI TÜRK" tvg-logo="https://logo.huhu.to/logo?c=702157954.png" group-title="TR | Yerel & Diğer",TIVI TÜRK
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7021579547bba092a6b21
 #EXTINF:-1 tvg-name="TMB" tvg-logo="https://logo.huhu.to/logo?c=2675123009.png" group-title="TR | Yerel & Diğer",TMB
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2675123009e882be009e84
-#EXTINF:-1 tvg-name="TMB" group-title="TR | Yerel & Diğer",TMB
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3465087001358304a0f232
 #EXTINF:-1 tvg-name="TON TV" tvg-logo="https://logo.huhu.to/logo?c=3855597416.png" group-title="TR | Yerel & Diğer",TON TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/385559741691e8e41971e8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2jgg8wn/share-1000x500-removebg-preview.png" tvg-name="TRT2 RAW" group-title="TR | Yerel & Diğer",TRT2 RAW
@@ -1760,20 +1708,14 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1984101968aa2ae3bca725
 #EXTINF:-1 tvg-name="TV 4" tvg-logo="https://logo.huhu.to/logo?c=975669992.png" group-title="TR | Yerel & Diğer",TV 4
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/975669992eaa57c420d25
-#EXTINF:-1 tvg-name="TV 4" group-title="TR | Yerel & Diğer",TV 4
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/11932760190c77c91985e3
 #EXTINF:-1 tvg-name="4K TR: TV 4" group-title="TR | Yerel & Diğer",4K TR: TV 4
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3574429625ab8ee4e1aaa
 #EXTINF:-1 tvg-name="TV 41" tvg-logo="https://logo.huhu.to/logo?c=2106403864.png" group-title="TR | Yerel & Diğer",TV 41
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/210640386438fec4ca9352
-#EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_139.png?v=3" tvg-name="TV 41" group-title="TR | Yerel & Diğer",TV 41
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/495467140d41ff7085b3
 #EXTINF:-1 tvg-name="TV 42" tvg-logo="https://logo.huhu.to/logo?c=976049864.png" group-title="TR | Yerel & Diğer",TV 42
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/9760498644cca0d67323e
 #EXTINF:-1 tvg-name="TV 5" tvg-logo="https://logo.huhu.to/logo?c=122135384.png" group-title="TR | Yerel & Diğer",TV 5
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/12213538441d78d3ba3c7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsnncBpM/239124.png" tvg-name="TV 5" group-title="TR | Yerel & Diğer",TV 5
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/205519968384925ef64834
 #EXTINF:-1 tvg-name="TV 52" tvg-logo="https://logo.huhu.to/logo?c=4050748781.png" group-title="TR | Yerel & Diğer",TV 52
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/405074878169aaa15f6633
 #EXTINF:-1 tvg-name="TV 52 ORDU" group-title="TR | Yerel & Diğer",TV 52 ORDU
@@ -1788,6 +1730,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1225673773af8c29391e81
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLDqD22N/TV5.jpg" tvg-name="TV5" group-title="TR | Yerel & Diğer",TV5
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/935671761c36c5491c3ed
+#EXTINF:-1 tvg-name="TVDEN TV" group-title="TR | Yerel & Diğer",TVDEN TV
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3524690612e75743431c37
 #EXTINF:-1 tvg-name="TVO TV" group-title="TR | Yerel & Diğer",TVO TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2916629658495062daeb5f
 #EXTINF:-1 tvg-name="UCANKUS" group-title="TR | Yerel & Diğer",UCANKUS
@@ -1804,6 +1748,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/6396593594335b4483732
 #EXTINF:-1 tvg-name="VIYANA TV" tvg-logo="https://logo.huhu.to/logo?c=3442514805.png" group-title="TR | Yerel & Diğer",VIYANA TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/344251480556f9e5db0f41
+#EXTINF:-1 tvg-name="VIZYON 58" tvg-logo="https://logo.huhu.to/logo?c=1264201556.png" group-title="TR | Yerel & Diğer",VIZYON 58
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1264201556943a2d9ea9aa
 #EXTINF:-1 tvg-name="VIZYON 58" group-title="TR | Yerel & Diğer",VIZYON 58
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1283602496384076ba9dda
 #EXTINF:-1 tvg-name="VIZYON 58 TV SİVAS" group-title="TR | Yerel & Diğer",VIZYON 58 TV SİVAS
@@ -1820,6 +1766,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2368422760ba45ce579307
 #EXTINF:-1 tvg-name="BBC NEWS HD" tvg-logo="https://logo.huhu.to/logo?c=2437334853.png" group-title="Yabancı Kanallar",BBC NEWS HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/24373348534649729456fb
+#EXTINF:-1 tvg-name="AL JAZEERA HD" tvg-logo="https://logo.huhu.to/logo?c=1505679638.png" group-title="Yabancı Kanallar",AL JAZEERA HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/15056796381235e0980b2d
 #EXTINF:-1 tvg-name="CHANNEL 4 HD" tvg-logo="https://logo.huhu.to/logo?c=1399585566.png" group-title="Yabancı Kanallar",CHANNEL 4 HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/1399585566960a93b9a340
 #EXTINF:-1 tvg-name="CHANNEL 5 HD" tvg-logo="https://logo.huhu.to/logo?c=2680290176.png" group-title="Yabancı Kanallar",CHANNEL 5 HD
@@ -1828,8 +1776,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/5927186007ea11004d769
 #EXTINF:-1 tvg-name="ZDF HD" group-title="Yabancı Kanallar",ZDF HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2357166742945b42426750
-#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg/gt-cnbce/20260827162500.jpg" tvg-name="ARTE FHD" group-title="Yabancı Kanallar",ARTE FHD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/7119163154f1dbb121605
+#EXTINF:-1 tvg-logo="https://ginikoturkish.com/thumb/epg/gt-cnbce/20260827162500.jpg" tvg-name="ARTE HD" group-title="Yabancı Kanallar",ARTE HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3279647527eae8a18b12c2
 #EXTINF:-1 tvg-name="RTL HD" group-title="Yabancı Kanallar",RTL HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/272895919526df05345ef7
 #EXTINF:-1 tvg-name="PROSIEBEN HD" group-title="Yabancı Kanallar",PROSIEBEN HD
@@ -1856,8 +1804,8 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2389016718049b6c216ad
 #EXTINF:-1 tvg-name="MTV HD" group-title="Yabancı Müzik",MTV HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2574674781e50f9cdbe715
-#EXTINF:-1 tvg-name="DELUXE MUSIC HD" group-title="Yabancı Müzik",DELUXE MUSIC HD
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/39622734750c457bca7f36
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://logo.huhu.to/logo?c=3429108966.png" group-title="Yabancı Müzik",DELUXE MUSIC
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/342910896629fc12b5b902
 #EXTINF:-1 tvg-name="VH1" group-title="Yabancı Müzik",VH1
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/2472057422e66827965ebc
 #EXTINF:-1 tvg-name="MTV 80S" group-title="Yabancı Müzik",MTV 80S
@@ -1874,14 +1822,12 @@ https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4210722253adfa54046136
 #EXTINF:-1 tvg-name="MEZZO HD" group-title="Yabancı Müzik",MEZZO HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/125439915962261b6c173f
-#EXTINF:-1 tvg-name="NRJ HITS" tvg-logo="https://logo.huhu.to/logo?c=4032821325.png" group-title="Yabancı Müzik",NRJ HITS
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/4032821325a26979254ed7
+#EXTINF:-1 tvg-name="NRJ HITS HD" group-title="Yabancı Müzik",NRJ HITS HD
+https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3639203183127ef9073e5d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-name="TRACE URBAN HD" group-title="Yabancı Müzik",TRACE URBAN HD
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/359584808473d54978d570
 #EXTINF:-1 tvg-name="DEEJAY TV" tvg-logo="https://logo.huhu.to/logo?c=963607327.png" group-title="Yabancı Müzik",DEEJAY TV
 https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
-#EXTINF:-1 tvg-name="RADIO ITALIA TV" group-title="Yabancı Müzik",RADIO ITALIA TV
-https://cehri50-yayinim.mkkalozgul.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/39657019376a0123c5f968
 #EXTINF:-1 tvg-name="KANAL 19" tvg-logo="https://i.postimg.cc/J44Jmqkh/images-removebg-preview-(2).png" group-title="TR | Yerel & Diğer",KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KANAL 53" tvg-logo="https://aktifiptv.com/kanal53.png" group-title="TR | Yerel & Diğer",KANAL 53
@@ -1918,7 +1864,7 @@ https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
 #EXTINF:-1 tvg-name="KAY TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_91.png?v=5" group-title="TR | Yerel & Diğer",KAY TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
-#EXTINF:-1 tvg-name="LİFE TV" tvg-logo="https://i.postimg.cc/DZCW4cp6/logo-97-removebg-preview.png" group-title="TR | Yerel & Diğer",LİFE TV
+#EXTINF:-1 tvg-name="LİFE TV" tvg-logo="https://i.postimg.cc/DZCW4cp6/logo-97-removebg-preview.png" group-title="TR | Yaşam & Eğlence",LİFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
 #EXTINF:-1 tvg-name="VAN TV" tvg-logo="https://vantv.tr/wp-content/uploads/2024/08/vantv-logo-scaled.png" group-title="TR | Yerel & Diğer",VAN TV
 https://raw.githubusercontent.com/ibrahim9071/kick2/refs/heads/main/streams/vantv.m3u8
@@ -1956,8 +1902,8 @@ https://live.euromediacenter.com/sen1ordusun/tracks-v1a1/mono.m3u8
 https://live.euromediacenter.com/tvmor/index.m3u8
 #EXTINF:-1 tvg-name="TOKAT TV" tvg-logo="https://i.postimg.cc/qqLyWr7x/In-Shot-20260506-194509477.png" group-title="TR | Yerel & Diğer",TOKAT TV
 https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
-#EXTINF:-1 tvg-name="BODRUM KENT TV" tvg-logo="https://i.postimg.cc/15QMXNzR/18108-removebg-preview.png" group-title="TR | Yerel & Diğer",BODRUM KENT TV
-https://edge2.taksimbilisim.com/bodrumkenttv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-name="MAX ANİMASYON" tvg-logo="https://i.postimg.cc/4dGt24vC/15376-removebg-preview.png" group-title="TR | Çocuk",MAX ANİMASYON
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-name="ZAROK TV 2" tvg-logo="https://i.postimg.cc/26BBkKFS/Zarok-TV.webp" group-title="TR | Kürt",ZAROK TV 2
 https://hlspackager.akamaized.net/live/DB/ZAROK_TV/HLS/ZAROK_TV.m3u8
 #EXTINF:-1 tvg-name="POP TV" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="TR | Çocuk",POP TV
@@ -1968,3 +1914,5 @@ https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="4 KURD MUSİC" tvg-logo="https://i.postimg.cc/brhRcHQ8/37823853-ico.png" group-title="TR | Kürt",4 KURD MUSİC
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png?v=1.1" group-title="TR | Yaşam & Eğlence",TLC
+http://176.65.153.66:6001/play/a01v/index.m3u8
