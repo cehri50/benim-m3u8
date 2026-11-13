@@ -1954,3 +1954,31 @@ https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="4 KURD MUSİC" tvg-logo="https://i.postimg.cc/brhRcHQ8/37823853-ico.png" group-title="TR | Kürt",4 KURD MUSİC
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="4U TV" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="TR | Yerel & Diğer",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="A2TV" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="TR | Yerel & Diğer",A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-name="AS TV" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="TR | Yerel & Diğer",AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-name="BabyTV Turkiye" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="TR | Çocuk",BabyTV Turkiye
+https://saran-live.ercdn.net/babytv/index.m3u8
+#EXTINF:-1 tvg-name="Bric ve Satranc TV" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="TR | Yerel & Diğer",Bric ve Satranc TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="TR | Yerel & Diğer",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="Finans Turk TV" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="TR | Yerel & Diğer",Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-name="Haber61 TV" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="TR | Haber",Haber61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-name="KN Music TV" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="TR | Müzik",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kral Pop TV" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="TR | Müzik",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="TJK TV 2" tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TR | Spor",TJK TV 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-name="TRT 3" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="TR | Ulusal / Genel",TRT 3
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="TR | Ulusal / Genel",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Vav TV" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="TR | Yerel & Diğer",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
