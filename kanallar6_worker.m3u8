@@ -1914,3 +1914,43 @@ https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Vav TV" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="TR | Yerel & Diğer",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bİ KANAL" tvg-logo="https://www.bikanal.com/frontend/img/logo.webp" group-title="TR | Yerel & Diğer",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-name="TABİİ TV" tvg-logo="https://i.postimg.cc/YC4FPSR2/In-Shot-20250209-215704320.png" group-title="TR | Sinema & Dizi",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+#EXTINF:-1 tvg-name="TRT NOSTALJİ" tvg-logo="https://i.postimg.cc/NjHpHfvc/TRT-logo-(2018-)-svg.webp" group-title="TR | Sinema & Dizi",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-name="FLUX TV" tvg-logo="https://i.postimg.cc/PqQZynzK/38368227-ico.png" group-title="TR | Yerel & Diğer",FLUX TV
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 tvg-name="TELEON" tvg-logo="https://i.postimg.cc/5jd1nmms/38876648-ico.png" group-title="TR | Yerel & Diğer",TELEON
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 tvg-name="ŞABAN TV" tvg-logo="https://i.postimg.cc/cCVQN9PB/38333581-ico.png" group-title="TR | Sinema & Dizi",ŞABAN TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 tvg-name="CENNET MAHALLESİ TV" tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="TR | Sinema & Dizi",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-name="CİNE 5 TV" tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="TR | Sinema & Dizi",CİNE 5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="GÖPSEN TV" tvg-logo="https://i.postimg.cc/MH2xWgkV/38510246-ico.png" group-title="TR | Yerel & Diğer",GÖPSEN TV
+https://canli.gopsentv.com:3604/stream/play.m3u8
+#EXTINF:-1 tvg-name="SDM SİNEMA" tvg-logo="https://i.postimg.cc/bv1CKYm1/37586295-ico.png" group-title="TR | Sinema & Dizi",SDM SİNEMA
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RİZE TÜRK TV" tvg-logo="https://i.postimg.cc/d0Nj381Z/37587142-ico.png" group-title="TR | Yerel & Diğer",RİZE TÜRK TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="DİGİNET CİNEMA" tvg-logo="https://i.postimg.cc/kGYfx25t/38333816-ico.png" group-title="TR | Sinema & Dizi",DİGİNET CİNEMA
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://i.postimg.cc/KYtcqRKT/37576965-ico.png" group-title="TR | Yerel & Diğer",TVB
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 tvg-name="FİLMSCREEN İNTERNATİONAL" tvg-logo="https://i.postimg.cc/wT6V9GD3/37586347-ico.png" group-title="TR | Sinema & Dizi",FİLMSCREEN İNTERNATİONAL
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="FİX TV" tvg-logo="https://r.resimlink.com/pCE1b.png" group-title="TR | Yerel & Diğer",FİX TV
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 tvg-name="İSVİÇRE TV" tvg-logo="https://i.postimg.cc/9QdcMJz3/In-Shot-20260104-104846078.png" group-title="TR | Avrupa",İSVİÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="BRÜKSEL TÜRK" tvg-logo="https://i.postimg.cc/qRJ6yKWq/In-Shot-20250428-071728683.png" group-title="TR | Avrupa",BRÜKSEL TÜRK
+https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 tvg-name="MK TÜRK" tvg-logo="https://i.postimg.cc/FHC6cd9Y/38057190-ico.png" group-title="TR | Avrupa",MK TÜRK
+https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="UYGUR NEWS TV" tvg-logo="https://i.postimg.cc/D0S4YM9g/uygurtv4-48605-8082017-64868-6284715-removebg-preview.png" group-title="TR | Avrupa",UYGUR NEWS TV
+https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1264708708.m3u8
+#EXTINF:-1 tvg-name="MC EU" tvg-logo="https://i.postimg.cc/TYHY10N1/unnamed-removebg-preview-(1).png" group-title="TR | Avrupa",MC EU
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
